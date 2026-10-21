@@ -1,0 +1,43 @@
+[comfortable] batch 1/10 (telling a friend their joke was hurtful) -> 12 lines, total=12
+[comfortable] batch 2/10 (setting a boundary with a conflict-avoidant roommate) -> 12 lines, total=24
+[comfortable] batch 3/10 (asking a sibling to repay a debt) -> 12 lines, total=36
+[comfortable] batch 4/10 (asking a landlord to fix a serious issue) -> 12 lines, total=48
+[comfortable] batch 5/10 (telling a parent something they don't want to hear) -> 12 lines, total=60
+[comfortable] batch 6/10 (pushing back on a defensive manager in a performance review) -> 12 lines, total=72
+[comfortable] batch 7/10 (telling a coworker they're not pulling their weight) -> 12 lines, total=84
+[comfortable] batch 8/10 (pushing back on a defensive manager in a performance review) -> 12 lines, total=96
+[comfortable] batch 9/10 (telling a friend their joke was hurtful) -> 12 lines, total=108
+[comfortable] batch 10/10 (ending a friendship that has become one-sided) -> 12 lines, total=120
+[hesitant] batch 1/10 (telling a parent something they don't want to hear) -> 12 lines, total=132
+[hesitant] batch 2/10 (telling a coworker they're not pulling their weight) -> 12 lines, total=144
+[hesitant] batch 3/10 (negotiating salary for the first time) -> 12 lines, total=156
+[hesitant] batch 4/10 (telling a parent something they don't want to hear) -> 12 lines, total=168
+[hesitant] batch 5/10 (pushing back on a defensive manager in a performance review) -> 12 lines, total=180
+[hesitant] batch 6/10 (asking a sibling to repay a debt) -> 12 lines, total=192
+[hesitant] batch 7/10 (asking a sibling to repay a debt) -> 12 lines, total=204
+[hesitant] batch 8/10 (pushing back on a defensive manager in a performance review) -> 12 lines, total=216
+[hesitant] batch 9/10 (negotiating salary for the first time) -> 12 lines, total=228
+  ! hesitant/pushing back on a defensive manager in a performance review: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) - retrying
+[hesitant] batch 10/10 (telling a coworker they're not pulling their weight) -> 12 lines, total=240
+[defensive] batch 1/10 (asking a sibling to repay a debt) -> 12 lines, total=252
+[defensive] batch 2/10 (telling a parent something they don't want to hear) -> 12 lines, total=264
+[defensive] batch 3/10 (ending a friendship that has become one-sided) -> 12 lines, total=276
+[defensive] batch 4/10 (pushing back on a defensive manager in a performance review) -> 12 lines, total=288
+[defensive] batch 5/10 (negotiating salary for the first time) -> 12 lines, total=300
+[defensive] batch 6/10 (asking a landlord to fix a serious issue) -> 12 lines, total=312
+[defensive] batch 7/10 (asking a landlord to fix a serious issue) -> 12 lines, total=324
+[defensive] batch 8/10 (ending a friendship that has become one-sided) -> 12 lines, total=336
+[defensive] batch 9/10 (telling a parent something they don't want to hear) -> 12 lines, total=348
+[defensive] batch 10/10 (ending a friendship that has become one-sided) -> 12 lines, total=360
+[shutdown] batch 1/10 (ending a friendship that has become one-sided) -> 12 lines, total=372
+[shutdown] batch 2/10 (asking a sibling to repay a debt) -> 12 lines, total=384
+[shutdown] batch 3/10 (telling a parent something they don't want to hear) -> 12 lines, total=396
+[shutdown] batch 4/10 (negotiating salary for the first time) -> 12 lines, total=408
+[shutdown] batch 5/10 (telling a parent something they don't want to hear) -> 12 lines, total=420
+[shutdown] batch 6/10 (telling a coworker they're not pulling their weight) -> 12 lines, total=432
+[shutdown] batch 7/10 (setting a boundary with a conflict-avoidant roommate) -> 12 lines, total=444
+[shutdown] batch 8/10 (confronting a partner about a broken promise) -> 12 lines, total=456
+[shutdown] batch 9/10 (asking a sibling to repay a debt) -> 12 lines, total=468
+[shutdown] batch 10/10 (setting a boundary with a conflict-avoidant roommate) -> 12 lines, total=480
+
+Done. Wrote 480 examples to C:\Users\Admin\Rehersals\ml\data\raw_examples.jsonl

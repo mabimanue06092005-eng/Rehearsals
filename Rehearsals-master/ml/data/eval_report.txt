@@ -1,0 +1,20 @@
+Accuracy: 0.8854
+
+Classification report:
+              precision    recall  f1-score   support
+
+ comfortable      0.875     0.875     0.875        24
+    hesitant      0.885     0.958     0.920        24
+   defensive      0.840     0.875     0.857        24
+    shutdown      0.952     0.833     0.889        24
+
+    accuracy                          0.885        96
+   macro avg      0.888     0.885     0.885        96
+weighted avg      0.888     0.885     0.885        96
+
+
+Confusion matrix (rows=true, cols=pred), order=['comfortable', 'hesitant', 'defensive', 'shutdown']:
+[[21  2  1  0]
+ [ 1 23  0  0]
+ [ 1  1 21  1]
+ [ 1  0  3 20]]

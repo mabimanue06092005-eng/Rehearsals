@@ -1,0 +1,1 @@
+ALTER TABLE saved_personas ADD COLUMN pinned INTEGER NOT NULL DEFAULT 0;

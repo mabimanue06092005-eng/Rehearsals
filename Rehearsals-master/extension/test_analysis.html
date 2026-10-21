@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html><head><script src="analysis.js"></script></head>
+<body>
+<div id="out"></div>
+<script>
+const testText = "So, umm, I think we're all right on the budget, right? Uhh, actually let's just go with it, all right?";
+const counts = detectFillers(testText);
+const container = document.createElement('div');
+renderHighlightedTranscript(container, testText);
+const highlighted = Array.from(container.querySelectorAll('mark')).map(m => m.textContent);
+const wpm = computeWPM(150, 60);
+const pauses = computePauses([1000, 2000, 5000, 5200]);
+document.getElementById('out').textContent = JSON.stringify({ counts, highlighted, wpm, pauses });
+</script>
+</body></html>

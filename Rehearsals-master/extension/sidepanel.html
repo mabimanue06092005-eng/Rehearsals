@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Rehearsals — Live Coach</title>
+<link rel="stylesheet" href="sidepanel.css">
+</head>
+<body>
+
+<header>
+  <div class="wordmark">Rehearsals</div>
+  <div class="subtitle">Live Call Coach</div>
+</header>
+
+<div id="auth-gate">
+  <p>Log into Rehearsals in a regular browser tab first, then reopen this panel.</p>
+  <a href="https://rehearsals.pages.dev" target="_blank" rel="noopener">Open rehearsals.pages.dev →</a>
+  <button type="button" id="btn-recheck-auth">I've logged in — check again</button>
+</div>
+
+<main id="coach-main" style="display:none">
+  <div class="stats-row">
+    <div class="stat">
+      <div class="stat-value" id="stat-timer">00:00</div>
+      <div class="stat-label">Time</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value" id="stat-wpm">—</div>
+      <div class="stat-label">WPM</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value" id="stat-fillers">0</div>
+      <div class="stat-label">Fillers</div>
+    </div>
+  </div>
+
+  <button type="button" id="btn-record">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/>
+      <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+    </svg>
+    <span id="record-btn-label">Start listening</span>
+  </button>
+  <p class="hint">Only your own microphone is captured — never the call itself, never the other person's audio.</p>
+
+  <div id="voice-error" class="error-msg" style="display:none"></div>
+
+  <div id="coaching-panel" style="display:none">
+    <div class="section-label">Coaching</div>
+    <div id="coaching-cue">Listening for a moment before the first cue…</div>
+  </div>
+
+  <div class="section-label">Live transcript</div>
+  <div id="transcript"></div>
+</main>
+
+<script src="analysis.js"></script>
+<script src="sidepanel.js"></script>
+</body>
+</html>

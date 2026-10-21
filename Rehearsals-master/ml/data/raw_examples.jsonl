@@ -1,0 +1,480 @@
+{"text": "I want to talk to you about the joke you made earlier.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "That joke really hurt my feelings and I'd appreciate it if you didn't make jokes like that again.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I feel disrespected when you make jokes about that topic.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "Let's find a different way to be funny that doesn't involve putting others down.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I'm not comfortable with jokes that belittle people like that.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "Your joke crossed a boundary for me, and I need you to know that.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I'd rather we didn't joke about sensitive topics like that.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "When you make jokes like that, it makes me feel unseen.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I need you to understand that your joke wasn't funny to me, it was hurtful.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "Let's focus on humor that brings us together, not drives us apart.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I'm asking you to be more thoughtful with your jokes in the future.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "That kind of humor isn't okay with me, and I hope you can respect that.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I need some alone time this weekend, so I'd appreciate it if you could give me some space.", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "My schedule is pretty packed on weekdays, let's plan our discussions for weekends.", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I'm not comfortable with you borrowing my clothes without asking, can we find a better system?", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I've noticed we have different cleaning styles, how about we divvy up responsibilities?", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "To avoid any misunderstandings, let's make a chore chart and stick to it.", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I'd prefer it if you didn't have guests over on weeknights, is that okay with you?", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I think it's a good idea for us to have a monthly review of our living situation to address any issues.", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I'm happy to help with cooking but I need a day's notice so I can plan", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Let's establish a quiet time after 10 PM, I have to get up early for work.", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "We should discuss and agree on any changes to the living room, it's a shared space.", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I'm setting a boundary around my personal belongings, please don't touch or move them.", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Going forward, I'd like to discuss any problems as they arise, rather than letting them build up.", "label": "comfortable", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I'd appreciate it if you could pay me back by the end of the month.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "That money is earmarked for something important, so I need it back as soon as possible.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "I've got a budget to balance, and your payment is a big part of that.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "Let's settle this debt so we can both move forward.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'm counting on you to make good on what you borrowed.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "My budget is pretty tight right now, so I need that money back.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "I think it's time for us to discuss repayment terms.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "You borrowed $500 from me, and I expect to be paid back.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "Payback would really help me out, thanks for understanding.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "Now that you're back on your feet, I'd like to discuss paying back that loan.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "I need to get paid back, it's just a matter of when and how.", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "Can we agree on a payment plan that works for both of us?", "label": "comfortable", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'd appreciate it if you could send someone to fix the leak as soon as possible.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "The broken heater is a significant concern for me, can we schedule a repair?", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "I need a working fridge to store my food, so I'm asking you to replace it this week.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "It's essential for my health that the mold in the bathroom is addressed immediately.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "I've documented the issue with the door, and I'd like to discuss a plan for its repair.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "Can we agree on a date for the plumbing fix so I can plan accordingly?", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "The current state of the electrical outlets is a fire hazard, I need them fixed now.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "To avoid further damage, I think it's best if the roof leak is patched up today.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "My rent payment will be withheld until the necessary repairs are completed.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "I expect the broken lock to be fixed by the end of the week, as it's a safety concern.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "Please provide a timeline for when the issues I've reported will be resolved.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "For my own comfort and safety, I require a functional and clean living environment, which includes fixing the listed problems.", "label": "comfortable", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "I've thought about this a lot and I need some space to make my own decisions.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You're not going to like this, but I have to be honest with you.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I understand you're upset, but I'm an adult now and I can take care of myself.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Let's talk about this calmly, I'm not trying to hurt you.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "My boundaries are clear: I won't discuss this further if you're going to yell.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I know this isn't easy to hear, but it's something I've decided is best for me.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I appreciate your concern, but I've got this under control.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It's time for me to make my own way, even if that means we disagree.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm not looking for your approval, I'm telling you how I feel.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "We can't keep having the same argument over and over, I need a resolution.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "My decision is final, and I hope you can respect that.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm confident in my choice, and I wish you could support me.", "label": "comfortable", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I understand where you're coming from, but I'd like to clarify the expectations.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "My goal is to improve, and I need concrete examples to work on.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Let's focus on the specific issues rather than generalizations.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm not sure I agree with that assessment, can we look at the data together?", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "To move forward, I require a clear plan of action and regular check-ins.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "That's not how I recall the situation, can you explain your perspective?", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I've made significant contributions to this project, and I'd like them acknowledged.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "For me to succeed in this role, I need more autonomy in decision-making.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Let's differentiate between opinions and facts to find a solution.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "If we're going to discuss my performance, I'd appreciate it if we stuck to the facts outlined in my review.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "What I'm hearing is that there are concerns, but I'm not clear on what I can do differently.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm committed to my work here, and I expect a fair and respectful conversation about my performance.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I've noticed you're struggling to keep up with your tasks, can we discuss a plan to get you back on track?", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "My expectation is that all team members will meet their deadlines, let's work together to make that happen.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "To ensure the project's success, I need each of you to take ownership of your specific responsibilities.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I think it's essential we review the project's workload and rebalance it if necessary.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Let's schedule a meeting to go over your current workload and see where adjustments can be made.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "For the team to function effectively, it's crucial that everyone contributes equally.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I want to support you in your role, but I also need to see progress on your tasks.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Going forward, I'd like to see a more consistent effort from you on our shared projects.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "It's clear we need to redefine your priorities to better align with the team's objectives.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "To move forward, we'll need to establish clearer goals and expectations for your role.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I'm confident that with a bit of restructuring, we can get you back to being a valuable asset to the team.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Let's focus on finding solutions rather than placing blame, and work together to get your tasks back on schedule.", "label": "comfortable", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I understand where you're coming from, but I'd like to clarify the expectations around this project.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "My priority is delivering quality work, and I'm not willing to compromise on that.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Can we focus on finding solutions rather than placing blame?", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I appreciate your feedback, and I'd like to discuss some specific examples to support your concerns.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm confident in my abilities and the value I bring to this team.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Let's take a step back and look at the bigger picture \u2013 what are our goals here?", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm not sure I agree with that assessment; can you provide more context?", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "My workload is at capacity, so I'll need to adjust some priorities if we're going to add more tasks.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm open to constructive criticism, but I'd appreciate it if we could stick to the facts.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I've done some research and found an alternative approach that could work better for us.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Rather than assuming what went wrong, let's review the data and make an informed decision.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm committed to growth and improvement, but I need clear, actionable feedback to move forward.", "label": "comfortable", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I want to talk to you about the joke you made earlier, it didn't sit well with me.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "That comment was hurtful, and I'd appreciate it if you didn't make jokes like that again.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I feel disrespected when you use that kind of humor, can we find a better way to be funny?", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I'm not trying to be sensitive, but that joke was really off-putting.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "Let's focus on having a good time without putting each other down, okay?", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "When you say things like that, it makes me feel like you're not considering my feelings.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I need you to know that joke was hurtful, and I'm not going to engage in conversations that involve that kind of humor.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I think we can both do better than making jokes at each other's expense.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "Going forward, I'd like it if we avoided humor that might be hurtful to either of us.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "Your joke caught me off guard, and I want to discuss why it was problematic.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "Let's make a point to communicate respectfully, even when we're trying to be funny.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "That joke wasn't funny to me, and I wish you hadn't made it.", "label": "comfortable", "scenario": "telling a friend their joke was hurtful"}
+{"text": "I think it's time for us to go our separate ways.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "My needs aren't being met in our friendship, so I've decided to step back.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I value my own energy and it's getting drained by our dynamic, I need to prioritize myself.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "For me to feel fulfilled, I need friendships that are more reciprocal.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "This friendship has become unsustainable for me because of the imbalance.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Our conversations are consistently one-sided and it's no longer working for me.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I deserve to have friends who show up for me as much as I show up for them.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "It's clear our priorities have shifted in different directions, and that's okay.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "To maintain my own well-being, I need to set this boundary with you and our friendship.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "The effort I'm putting in isn't being matched, and it's causing me distress.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "My boundaries have changed, and this friendship no longer aligns with them.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I've realized that I need friendships where we both make time for each other.", "label": "comfortable", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I don't know if this is the right time, but maybe we should talk about something.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It's probably nothing, but I've been thinking a lot about my future and I'm not sure.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Sorry to bring this up, but I was wondering if we could discuss my plans for college.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I guess I should mention that I've been having some doubts about our previous conversation.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Maybe I'm overreacting, but I feel like we haven't seen eye to eye on this issue.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm not trying to be difficult, it's just that I have some concerns I wanted to share.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "If it's okay with you, I'd like to talk about something that's been bothering me lately.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I don't want to upset you, but I think we need to reconsider our decision.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It's possible I'm wrong, but I was thinking that maybe we should explore other options.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Sorry if this isn't what you want to hear, but I feel like I need to be honest with you.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm not sure if this is the right decision, but I was thinking about taking a different path.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "If you don't mind my saying so, I think we might need to have a tougher conversation about this.", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I don't know if I'm right to say this, but maybe we could re-evaluate the workload?", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Sorry to bring it up, it's probably not a big deal, but have you noticed anything odd about our project's progress?", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I guess what I'm trying to say is, possibly, we might need to adjust our strategy, I'm not sure though.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "It's probably just me, but I feel like maybe we're not all on the same page, or something.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "If I'm being completely honest, and I don't know if I should be saying this, but it seems like you've been having a tough time keeping up.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I'm not trying to criticize or anything, it's just that I've noticed a few things that maybe, possibly, could be improved.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Maybe I'm just not seeing the whole picture, but it looks to me like we're a bit off track, I think.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I don't want to overstep any boundaries, but perhaps we could, you know, discuss our roles in the project a bit more?", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "It's possible I'm totally wrong about this, but I was wondering if, maybe, we should reassess our deadlines and tasks.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Sorry if this sounds presumptuous, but could it be that we need to, I don't know, reassign some tasks or something?", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I'm really not sure how to bring this up, but I feel like, possibly, there's a bit of a miscommunication going on that's affecting our work.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "If it's not too forward of me to say so, maybe we should, you know, try to find a way to work together more efficiently, I guess.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I don't know if I'm asking for too much, but...}", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "Maybe this is a bad time to bring it up, I guess I was thinking maybe a slight increase?", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I'm probably overthinking this, but I feel like I've been with the company for a while now...", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "Sorry to even mention it, I was wondering if there's any flexibility with the salary", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "It's probably not a big deal, I just feel like I'm taking on a bit more responsibility lately", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "If it's not possible, no worries at all, but I thought I'd ask about potential for a raise", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I'm not sure if this is how it's normally done, I was thinking of asking for a review of my compensation package", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I feel like I'm being pushy even asking, but is there any chance of getting to fifty thousand", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "Maybe I'm just being optimistic, I was hoping we could discuss the possibility of a cost of living adjustment", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I don't want to be a burden, I was wondering if my work so far has been satisfactory enough to consider a salary increase", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "This might not be the right moment, I'm just going to throw it out there - could we talk about a possible ten percent bump?", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I'm really not trying to be difficult, I'm just not sure if I'm being fairly compensated, and I was thinking maybe...?", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I'm not sure if this is the right time to bring it up, but maybe we should talk about...", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It's probably nothing, I guess, but I've been thinking a lot about my future and I'm not sure...", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Sorry to have to say this, but I don't think I can do what you're asking of me", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I don't know if you'll agree with me, but I've been feeling really overwhelmed with school", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Maybe I'm just being silly, but it seems like we haven't been seeing eye to eye lately", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm not trying to be difficult or anything, it's just that I have some concerns about...", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "If it's okay with you, can we talk about something that's been on my mind, I guess it's just been bothering me", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I hope you won't be upset, but I was thinking that maybe I should take a break from...", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It's not that I don't appreciate everything you do for me, it's just that I feel like...", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "possibly, I mean, if you're open to it, we could try to find a compromise on...", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm sorry if this isn't what you want to hear, but honestly, I've been feeling really unhappy about...", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I don't want to disappoint you or anything, but I'm just not sure if I can commit to...", "label": "hesitant", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm not sure if this is the right time, but maybe we could discuss some areas where I'm struggling?", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "It's probably just my perception, but I feel like I'm being held to a different standard than my colleagues.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I don't know if I'm just being overly sensitive, but some of the feedback I've received has felt a bit... harsh.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "If I could, um, clarify something - I think there might have been a misunderstanding about the project timeline.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Sorry to bring it up, but I've been feeling a bit overwhelmed with my workload lately, and I'm not sure how to prioritize tasks.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I guess what I'm trying to say is, I'm not sure I entirely agree with the assessment of my performance.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Maybe I'm just not understanding the goals correctly, but it seems like they've changed a few times already.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm not trying to make excuses, but I think there were some external factors that affected my performance this quarter.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "It's possible I'm misremembering, but I could've sworn we had discussed a different approach to the project initially.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "If it's not too much trouble, could we maybe revisit the expectations for my role and see if they're still aligned with the company's goals?", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I don't want to be difficult, but I'm having a hard time seeing how this feedback is going to help me improve in the long run.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Sorry if this sounds like I'm being defensive, but I feel like my contributions to the team haven't been fully recognized.", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm not sure if you're in a good place financially right now, but maybe we could discuss that loan I gave you?", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "Sorry to bring this up, it's probably not a good time, but I was wondering about the money you borrowed.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I don't know if this is the right moment, but I'm kind of in a tight spot myself and I was hoping you could repay me.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "It's probably nothing, and I feel bad even asking, but have you had a chance to think about paying me back?", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "Maybe I should just forget about it, but I thought I'd mention it, you know, about the debt.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I guess what I'm trying to say is, I need the money, but only if it's not too much trouble for you, of course.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "If it's not a hassle, could you maybe, possibly think about paying me back at some point?", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'm not looking to pressure you or anything, it's just that I was hoping we could settle this sooner rather than later.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I don't want to be a nuisance, but I thought maybe we could work out a payment plan, if that's okay with you.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "This might be a bad time, and please feel free to say no, but I was thinking maybe you could start paying me back next month?", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "It's entirely up to you, and I completely understand if you can't, but I was wondering if you could try to pay me back a little sooner.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I feel terrible asking, but I was hoping you could, you know, maybe help me out with that loan, if it's not too much to ask.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I don't suppose you've had a chance to think about paying me back, maybe?", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "It's probably not a good time to bring this up, but I was wondering if you could repay me soon.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I guess I should've talked to you about this sooner, sorry.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "If it's not too much trouble, could you maybe try to pay me back by the end of the month?", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'm not sure if this is a good time, but I was thinking maybe we could discuss the money you borrowed.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I apologize if this is inconvenient, but I really need to get repaid, I think.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "Maybe I'm just being paranoid, but I was hoping you could pay me back when you get a chance.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I don't want to be a nag or anything, but have you given any more thought to repaying me?", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "If you're still unable to pay, that's okay, I just need to know, I suppose.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'm pretty sure I remember you saying you'd pay me back, but maybe I'm just misremembering, sorry.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "It's not a huge deal or anything, but I was wondering if you could try to repay me a little sooner rather than later.", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'm not looking to rush you or anything, but do you have any idea when you might be able to pay me back, maybe?", "label": "hesitant", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'm not sure if this is the right time to bring it up, but maybe we could discuss my project workload?", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "If I'm being completely honest, I feel a bit overwhelmed, sorry to say that", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "It's probably just me, but I'm getting the sense that my tasks are being micromanaged, I guess", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I don't know if you've noticed, but I've been putting in a lot of extra hours, maybe that's not necessary?", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Could I, uh, possibly get some clarification on the expectations for this role, I'm a bit unclear", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm sorry to question this, but is it really necessary to have so many check-ins throughout the week?", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Maybe I'm just not doing something right, but it feels like I'm being held to a really high standard", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "If it's not too much trouble, could we maybe revisit the goals we set last quarter, I'm not sure they're still realistic", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "It's likely just my perception, but it seems like my ideas aren't being considered as much as they used to be", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm not trying to be difficult, but I think we might need to adjust the timeline for this project, it's feeling a bit tight", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Sorry to push back, but I'm not entirely sure I agree with that assessment of my performance", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I guess what I'm trying to say is, I feel like I need a bit more autonomy in my decision-making, if that's okay?", "label": "hesitant", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I don't know if this is the right time to bring it up, but maybe we could discuss salary?", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "Sorry to ask, I guess I was wondering if there's any flexibility with the compensation package.", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "It's probably not a big deal, but I was thinking possibly we could revisit the salary for this position, I mean if that's something we can even do.", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I'm not sure if I'm overstepping, I just wanted to mention that I've done some research and maybe my salary could be adjusted to be more in line with industry standards?", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "If it's not too much trouble, could we maybe talk about the possibility of a raise at some point, I don't know, maybe in the future?", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I'm sorry to be uncertain, but I've been looking at the numbers and I think I might be underpaid, or at least that's what I'm guessing.", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "Maybe this isn't the best time, but I was thinking that possibly, if we were to renegotiate the salary, I could take on more responsibilities?", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "It's probably just my own insecurities, but I feel like I'm worth more than what I'm currently being paid, I guess.", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I don't want to sound pushy or anything, I just thought it would be fair to ask about the opportunity for a salary increase, maybe someday.", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "If I'm being completely honest, which I'm not sure I should be, I've been feeling a bit undervalued in terms of my compensation, but that's just my opinion.", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "Could we possibly, maybe, discuss the salary range for someone in my position, I don't know, just to get a better understanding of where I stand?", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I'm really not sure how to bring this up, but I think I might be expecting too much, or maybe not enough, when it comes to my salary, I'm just not sure.", "label": "hesitant", "scenario": "negotiating salary for the first time"}
+{"text": "I don't know if I'm just not seeing the whole picture, but it seems like maybe you're not contributing as much as the rest of us?", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Sorry to bring this up, I feel like I might be overstepping, but I've noticed you haven't been meeting your deadlines.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I'm probably just being too sensitive, but I get the impression that we're having to pick up the slack for you sometimes.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "It's possible I'm wrong, and I hope I am, but have you thought about taking on a bit more responsibility in our project?", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Maybe this is just my perception, but it feels like you're not really pulling your weight, and I'm not sure what to do about it.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I guess what I'm trying to say, though I'm not sure I should be saying it, is that your workload seems a bit light compared to the rest of the team.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "If I'm being completely honest, which I hope I am, I think there might be a bit of an imbalance in how tasks are being distributed, and I'm not sure how to address it without offending you.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I don't want to accuse you of anything or make you feel bad, but I've noticed a bit of a gap in your productivity lately, and I'm not sure what's causing it.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "It's probably nothing, and please disregard this if I'm off base, but should we talk about the team's dynamics and how we can improve them?", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Sorry if this comes across as confrontational, which isn't my intention, but I think we need to discuss how we can better work together as a team to meet our goals.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I'm not sure if this is the right time or place, but I feel like maybe we should talk about our expectations and how we can support each other better, because it seems like there's a bit of a disconnect.", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Maybe I'm just not communicating effectively, but I've been feeling a bit overwhelmed with my tasks, and I wonder if we could redistribute some of the workload, possibly?", "label": "hesitant", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "You're one to talk, considering you still owe Mom money from years ago.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "I did lend you that money, but you're being really unfair about this.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "It's not like I'm asking for it back immediately, but you're acting like I'm suffocating you or something.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "If you hadn't spent all your paycheck on that video game, maybe you'd be able to pay me back by now.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "This has nothing to do with trust, it's just basic mathematics that you seem to be failing at.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "You always do this, bringing up ancient history to avoid the issue at hand.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'm not the one who's been dodging conversations about this for weeks.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "Maybe if you managed your finances better, you wouldn't be in this situation.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "Don't try to turn this on me, I'm just asking for what's mine.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "You're making a big deal out of nothing; it's just a few hundred dollars.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "If I were as careless with my money as you are, I'd probably be in debt too.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "Stop playing the victim here, you knew exactly what you were getting into when you borrowed that money.", "label": "defensive", "scenario": "asking a sibling to repay a debt"}
+{"text": "You always do this, you never listen to my side.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm telling you, it's not like I had a choice, so don't look at me like that.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Maybe if you spent more time paying attention to what's going on instead of judging me, you'd understand.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "This has nothing to do with you, so why are you getting so upset?", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You're one to talk, considering what you did last year.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I don't know why you're making such a big deal out of this, it's really not that serious.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "If you'd just calm down for a second, I could explain everything.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Your reaction is exactly why I didn't want to tell you in the first place.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "So now you're an expert on my life? That's rich.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "This wouldn't even be an issue if you trusted me more.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You're not going to like everything I do, that's just how it is.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm an adult now, I can make my own decisions, whether you like them or not.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You're one to talk, considering how you've been canceling plans at the last minute for months now.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I'm tired of being blamed for everything, it's always my fault, never yours.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Maybe if you were more considerate of my feelings, I wouldn't be in this position.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You think I'm being selfish, but have you ever stopped to think about what I want for once?", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "This isn't about me, it's about how you've changed and it's not working for me anymore.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "If you were really a good friend, you'd understand where I'm coming from.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I don't see why I'm the bad guy here, I'm just trying to prioritize my own happiness.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You only care about this now because it's affecting you, not because you actually care about our friendship.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Don't act like you're innocent, we both know you've been pulling away just as much as I have.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "It's not fair to expect me to keep putting in all the effort while you just reap the benefits.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "If our friendship was that important to you, you'd have made more of an effort to keep it alive.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I'm not the one who's been taking our friendship for granted, so don't try to turn this around on me.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You're the one who assigned me these tasks, now you're criticizing me for not doing them your way?", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I did exactly what you told me to do, so if there's a problem it's with your instructions, not my performance.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "My numbers are fine, you're just focusing on one little thing that didn't go right because you have it out for me.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "If I'm underperforming, maybe it's because I've been given too much to handle and not enough support.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "You always do this, you never give me credit for what I do right, only criticize what I do wrong.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I'm not the only one who made mistakes on this project, but I'm the only one being singled out.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "That's not fair, you're bringing up something from months ago that was already resolved.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "If you'd given me the resources I needed, this wouldn't have been an issue in the first place.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "You're not even trying to understand my side of things, you've already made up your mind.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "I've been doing just fine in this role for years, and now you're suddenly finding all these faults with my work?", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "Maybe if you were more available to help and guide, I wouldn't have had to figure everything out on my own.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "This is all because I spoke up in the last meeting, isn't it? You're trying to intimidate me into silence.", "label": "defensive", "scenario": "pushing back on a defensive manager in a performance review"}
+{"text": "You're the one who's been underselling me from the start, so don't act surprised I'm asking for more.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "I've done my research, and you know I'm worth more than what you're offering.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "If you can't see my value to this company, then maybe I'm not the right fit.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "That's not fair, I've taken on way more responsibilities than my job description.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "You're questioning my worth after all the times I've bailed you out of trouble?", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "I don't see why my request is such a big deal, considering everything I bring to the table.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "Other companies are willing to pay me what I'm worth, so maybe I should just go there.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "I'm not asking for the moon here, just a salary that reflects my contributions.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "If you're going to nitpick every little thing, we're never going to come to an agreement.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "Don't try to guilt trip me into taking a lower offer, it's unprofessional.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "Your budget constraints aren't my problem, figure it out.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "I'm not the one who set the initial offer, you did, so don't blame me for trying to negotiate.", "label": "defensive", "scenario": "negotiating salary for the first time"}
+{"text": "You're always complaining about something, can't you just give me a break for once?", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "I'm still waiting for you to fix the last thing I asked for, but now you're on my case about this?", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "This isn't even my fault, it's not like I caused the leak.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "If you had done your job right in the first place, we wouldn't be having this conversation.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "Look, I don't appreciate your tone, I'm trying to resolve this.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "What's with the sudden urgency, you've been ignoring this issue for months?", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "You can't just come at me like that, I deserve some respect.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "Maybe if you spent more time maintaining the building instead of raising the rent, we wouldn't have these problems.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "I've been a good tenant, I pay on time, you should be working with me here.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "This is ridiculous, I've reported this issue three times already and nothing's been done.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "It's not like I'm asking for the moon, just fix the toilet like you're supposed to.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "If I were as neglectful in my responsibilities as you are in yours, I'd be out of a job.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "You're always complaining about something, can't you just be patient for once?", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "I've been paying rent on time, it's not like I'm some kind of deadbeat tenant who doesn't deserve basic maintenance.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "This is the first time it's happened, don't act like I'm somehow responsible for the pipes bursting.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "If you'd actually been here to inspect the place when I moved in, you'd have seen that the roof was already in bad shape.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "Other landlords would kill to have tenants like me, I'm not the problem here.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "So now you're a plumbing expert, is that it?", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "You can't just blame me for the state of the apartment without looking at your own role in this.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "I didn't ask for these problems, they're your responsibility, not mine.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "This place was a dump when I moved in, and now you're acting like I'm the one who ruined it.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "You're one to talk, considering the condition of the hallways and stairwells.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "Maybe if you spent more time maintaining the building instead of finding ways to charge us extra, we wouldn't be having this conversation.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "Don't try to turn this around on me, I'm the victim here, not you.", "label": "defensive", "scenario": "asking a landlord to fix a serious issue"}
+{"text": "You're just mad because I finally stopped doing all the work in this friendship.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "If you were really a good friend, you'd understand why I need some space.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I'm not the one who's been canceling plans at the last minute for months, so don't act like I'm the flaky one.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Maybe if you listened to me once in a while, I'd feel like this friendship was more of a two-way street.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You only notice when I'm not instantly available to you, but where are you when I need something?", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "This has nothing to do with you, it's about me reevaluating my priorities.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "It's easy for you to say I'm being selfish, but you have no idea what I've been dealing with.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "If the only time you reach out is when you need a favor, then maybe we shouldn't be friends.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You're one to talk, considering how you've been treating your other friends lately.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I'm tired of being your emotional crutch, it's not a healthy dynamic for either of us.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You're acting like I owe you an explanation for everything, but our friendship doesn't work that way.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Don't pretend like you're innocent in all this, your actions have consequences too.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You're always so quick to judge me, but you never listen to what I have to say.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm not being irresponsible, you're just not used to me making my own decisions.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "If you hadn't been so controlling, maybe I wouldn't have had to keep this from you.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It's not like I wanted to hurt you, but you're not exactly making it easy for me to talk to you about this.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You're one to talk, considering how you handled a similar situation when you were my age.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I don't see why you're making such a big deal out of this, it's not like it's the end of the world.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Maybe if you spent more time trying to understand me instead of lecturing me, we could have avoided this whole thing.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You always do this, you always assume the worst about me without giving me a chance to explain.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm tired of being treated like a child, maybe it's time you started trusting me to make my own choices.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "This has nothing to do with you, so maybe you should just focus on your own life for a change.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "If you were really concerned about me, you'd be listening to what I'm saying instead of just yelling at me.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You're not perfect, you know, and maybe if you admitted that every once in a while, we could actually have a real conversation.", "label": "defensive", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You're the one who's always canceling plans, not me, so don't act like I'm the flaky one.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I'm tired of being blamed for everything that goes wrong in our friendship.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Maybe if you spent more time listening and less time lecturing, things would be different between us.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You're only saying that because you feel guilty for not being a good friend to me.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I don't see why I'm the bad guy just because I finally stood up for myself.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "It's not like I've been ignoring you, you're just too sensitive about everything.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "If you can't handle a little bit of honesty, then maybe we shouldn't be friends.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You're always so quick to point out my flaws, but what about yours?", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I'm not the one who's been holding on to this friendship out of obligation.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Don't pretend like you've been perfect in this friendship, because you haven't.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "If I'm such a bad friend, then why are you still talking to me?", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You're just mad because I'm not going to keep putting in all the effort to make this friendship work.", "label": "defensive", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I'm done trying to make this work.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Whatever, it's fine, let's just drop it.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Look, I don't even know why we're still talking about this.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I guess we want different things, okay?", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Forget I said anything, it doesn't matter anymore.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "If that's how you feel, then I suppose we're done here.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Not really sure what else to say.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "You do you, I'll do me, and that's it.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I'm tired of having the same conversation over and over.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Never mind, just forget the whole thing.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "It's clear we're not on the same page, so yeah.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "I'm good, let's just leave it alone now.", "label": "shutdown", "scenario": "ending a friendship that has become one-sided"}
+{"text": "Forget I even asked.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Look, just don't worry about it, okay?", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "I don't want to talk about this anymore.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Whatever, it's not like it matters to me.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "You do what you want, I'm done discussing this.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Never mind, I'll just handle it myself.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'm tired of bringing it up, so let's drop it.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "If you say so, I guess that's the end of it.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Not a big deal, really, just ignore it.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Do what you want, see if I care.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "I've said all I'm going to say on the subject.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Just leave me alone about it, alright?", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "I don't know, okay?", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Whatever, it's fine.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Look, can we just drop it?", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm done talking about this.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Forget I said anything.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It doesn't matter anymore.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Never mind, just forget it.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm not discussing this further.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You're not going to listen anyway.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It's not worth arguing about.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Do what you want, I'm out of this conversation.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Just leave it, okay? It's over.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Whatever you think is fair, I guess.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "It doesn't matter to me anymore.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "Look, just forget the whole thing.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "Never mind, let's not discuss this.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "I don't even know why I bother trying.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "You're not going to change your mind, so...", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "Just pick a number, I'll accept it.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "Forget the raise, can we just move on?", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "I'm done talking about this.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "However you want to handle it is fine.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "It's not like it's going to make a difference anyway.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "Do whatever you want, I'm out of this conversation.", "label": "shutdown", "scenario": "negotiating salary for the first time"}
+{"text": "I don't know, okay?", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Whatever you think is fine.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It's not like it matters anymore.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Look, can we just drop it?", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Forget I said anything.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Never mind, it doesn't matter.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm done talking about this.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Do what you want, I guess.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "It's all the same to me at this point.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "You're not listening anyway.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "I'm just...tired of this conversation.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Just forget it, please.", "label": "shutdown", "scenario": "telling a parent something they don't want to hear"}
+{"text": "Forget it, it's not like it matters anymore.", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Whatever, I'm done talking about this.", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Look, just drop it, okay?", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I'm just...never mind.", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Not worth the effort, honestly.", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "It's fine, you do what you want.", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "I don't even know why I bother trying to explain.", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Just let's move on, can we?", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "It doesn't even matter at this point, so yeah.", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "You're right, it's all my fault, happy now?", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Not gonna fight about this anymore, too tired.", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Doesn't matter what I say, you'll do what you want anyway.", "label": "shutdown", "scenario": "telling a coworker they're not pulling their weight"}
+{"text": "Look, just do what you want, okay?", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Never mind, it's not worth the fight.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I'm done talking about this, let's just drop it.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Whatever, just leave me alone.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "It doesn't even matter anymore.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Forget I said anything, alright?", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I don't care, honestly.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Just forget it, I'm not discussing this.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "You do you, I'll do me, and we'll just coexist.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I'm not going to argue about this anymore.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Nothing I say is going to change your mind, so what's the point?", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Can we just not talk right now?", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Look, I don't even know why we're still talking about this.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "Whatever, it's done.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "I'm just not gonna argue about it anymore.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "Forget I said anything, okay?", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "Not really sure what you want me to say.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "It doesn't even matter at this point.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "You're right, let's just drop it.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "I've got nothing else to say about it.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "Just... never mind, alright?", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "Doesn't seem like there's anything left to discuss.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "You do what you want, I'm done talking.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "Maybe we should just take a break from each other.", "label": "shutdown", "scenario": "confronting a partner about a broken promise"}
+{"text": "Forget I even asked.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "It's not like it matters anymore.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "I don't have the energy for this conversation.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Whatever, just do what you want.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Look, can we just drop it, okay?", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Never mind, I'll take care of it myself.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "I'm done talking about this.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Fine, keep the money.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "If you say so, then that's it.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Not worth my time, honestly.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Just leave me alone about it, alright?", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Doesn't matter to me either way at this point.", "label": "shutdown", "scenario": "asking a sibling to repay a debt"}
+{"text": "Look, just do what you want, okay?", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I don't even know why we're still talking about this.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Whatever, it's not like it matters to me.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Just forget I said anything.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Never mind, it's fine.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I'm done discussing this.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "If you can't see it from my perspective, then I guess we're just done here.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Do what makes you happy, I guess.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "It doesn't even matter anymore.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "You do you, I'll just stay out of it.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "I'm just gonna go to my room, okay?", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}
+{"text": "Let's just drop it.", "label": "shutdown", "scenario": "setting a boundary with a conflict-avoidant roommate"}

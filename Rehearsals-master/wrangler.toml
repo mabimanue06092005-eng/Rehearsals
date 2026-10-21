@@ -1,0 +1,8 @@
+name = "rehearsals"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "rehearsals-db"
+database_id = "f1ad2343-7e83-44f3-be72-68095d3429e6"

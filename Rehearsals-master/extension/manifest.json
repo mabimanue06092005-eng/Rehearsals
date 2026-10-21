@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Rehearsals — Live Call Coach",
+  "version": "0.1.0",
+  "description": "Live pacing, filler-word, and coaching cues while you're on an actual call — using your microphone only, never the other person's audio.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw/ElqiXpzZs7Lsm1POvq6LR4UugCE58ofImGfQcYOtUXV7bd7PlcER0/2AakIfdsNzW3GFq9Vvp9DGk/AXUlHKxa0VixJ1GN/R/SE8OgT1+G95Ye3Ej4cBt7R7gOrNl9U8iZ8saWCNd5HMeLYyXgFT59ZBUx/FmUCp0Ke4jVrAuqU367noUb5UGa5oiWXBJ9HyZR+1P6dmPN0TTESKgaXGdFjrDrm0V39kVx3RjI5ls56klhWothRpeJFeMU0cw3Hkv0/n8iuas5b5z6bqOCqkpcvVhDTvhZAn/Sh7HrtC+q+5Nx2srnQt5mF7BlKO5RXu09hvL2Cg/Hjri+N2GSvQIDAQAB",
+  "permissions": ["sidePanel", "storage"],
+  "host_permissions": ["https://rehearsals.pages.dev/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Open Rehearsals live coach"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  }
+}

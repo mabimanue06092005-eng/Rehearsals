@@ -1,0 +1,7 @@
+ALTER TABLE users ADD COLUMN growth_notes TEXT;
+
+CREATE TABLE IF NOT EXISTS user_goals (
+  user_id TEXT PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,
+  weekly_target INTEGER NOT NULL DEFAULT 3,
+  updated_at INTEGER NOT NULL
+);
